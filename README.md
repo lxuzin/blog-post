@@ -1,4 +1,4 @@
 
 ## ✅ Latest Blog Post
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+[2023/05/03 - ㅎㅇ](https://lxuzin.tistory.com/2) <br/>
